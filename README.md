@@ -64,21 +64,7 @@ To run this project locally, follow these steps:
 
 1. Open the application in your browser.
 2. Input the keywords to search for relevant news articles.
-3. Customize the voice settings (pitch, speed, gender).
-4. Click on the "Read News" button to generate the speech.
+3. upload image link of anchor - # news anchor: https://i.ibb.co/hYcxXTW/anchor.png
+4. Click on the "Submit" button to generate the news articles.
 5. The AI news presenter will read the articles aloud.
 
-## Deployment
-
-### Deploying on Streamlit
-
-You can deploy this AI News Presenter using [Streamlit Sharing](https://streamlit.io/sharing) or other hosting services that support Streamlit. Here's how:
-
-1. **Create a GitHub Repository** (done in this case).
-2. **Go to Streamlit Sharing**:
-   - Visit [Streamlit Sharing](https://streamlit.io/sharing) and sign in with your GitHub account.
-   - Select your repository and the branch where your `streamlit1.py` file is located.
-   - Deploy the app by providing the path to the main script (`streamlit1.py`).
-
-3. **Access the Deployed Application**:
-   - The application will generate a link that you can share.
