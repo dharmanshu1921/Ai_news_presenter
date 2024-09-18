@@ -24,7 +24,7 @@ For more details about NewsAPI, visit the [NewsAPI Documentation](https://newsap
 
 ## Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/Dl3qp_7MFGs/0.jpg)](https://www.youtube.com/watch?v=Dl3qp_7MFGs)
+[![Watch the video](https://img.youtube.com/vi/Fhs2jQe4msQ/0.jpg)](https://www.youtube.com/watch?v=Fhs2jQe4msQ)
 
 ## Deployed Application
 
