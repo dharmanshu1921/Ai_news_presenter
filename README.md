@@ -30,7 +30,7 @@ For more details about NewsAPI, visit the [NewsAPI Documentation](https://newsap
 
 The application has been deployed using **Streamlit**. You can access the live version of the AI News Presenter at the following link:
 
-[**AI News Presenter - Live Application**](https://your-streamlit-app-link)
+[**AI News Presenter - Live Application**](https://ainewspresentergit-wyvkhrgbufyjwbum6dyffs.streamlit.app/)
 
 ## Tech Stack
 
