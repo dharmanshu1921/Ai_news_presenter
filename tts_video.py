@@ -40,7 +40,7 @@ class VideoGenerator:
         headers = {
             "accept": "application/json",
             "content-type": "application/json",
-            "authorization": "Basic ZGhhcm1hbnNodXM4MzAzQGdtYWlsLmNvbQ:GyXBps2rWHCQSKgAJPCkx"  
+            "authorization": "Basic c2luZ2hzaGFpbGVzaGt1bWFyMzA1QGdtYWlsLmNvbQ:MXpnicM3eQpZk1jM4VHDt"  
         }
 
         response = requests.post(url, json=payload, headers=headers)
@@ -56,7 +56,7 @@ class VideoGenerator:
 
         headers = {
             "accept": "application/json",
-            "authorization": "Basic ZGhhcm1hbnNodXM4MzAzQGdtYWlsLmNvbQ:GyXBps2rWHCQSKgAJPCkx"
+            "authorization": "Basic c2luZ2hzaGFpbGVzaGt1bWFyMzA1QGdtYWlsLmNvbQ:MXpnicM3eQpZk1jM4VHDt"
         }
 
         response = requests.get(talk_url, headers=headers)
